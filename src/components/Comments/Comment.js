@@ -3,7 +3,6 @@ import React from 'react';
 
 const Comment = props => {
   // 🔥 Make sure the parent of Comment is passing the right props!
-  console.log(props)
   const { comment } = props;
 
   return (
